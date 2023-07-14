@@ -28,5 +28,5 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](timsinanishant51@gmail.com)
+- :mailbox:How to reach me: timsinanishant51@gmail.com
 
