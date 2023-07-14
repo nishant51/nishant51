@@ -11,8 +11,7 @@
   <a href="https://twitter.com/nishantimsna51">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<div><img src="https://komarev.com/ghpvc/?username=nishant51&style=flat-square&color=blue" alt=""/><div>
-  
+<div><img src="https://komarev.com/ghpvc/?username=nishant51&style=flat-square&color=blue" alt=""/></div>
 </div>
 
 
