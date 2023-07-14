@@ -19,9 +19,9 @@
 
 ### :woman_technologist: About Me :
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - :telescope: I’m working on becoming a Software Engineer and contributing to frontend and backend for building web applications.
 
