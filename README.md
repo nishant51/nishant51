@@ -1,4 +1,4 @@
-<p align="center">### Hi there 👋 Nishant Timsina here,👋</p>
+<p align="center">### Hi there 👋 ,👋</p>
 
 
 <div id="header" align="center">
@@ -13,6 +13,11 @@
   </a>
 <div><img src="https://komarev.com/ghpvc/?username=nishant51&style=flat-square&color=blue" alt=""/></div>
 </div>
+
+<h1>
+  hey there,Nishant Timsina here
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 <!--
