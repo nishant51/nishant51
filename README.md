@@ -50,8 +50,6 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
 </div>
 ---
 
-### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant51&layout=compact&theme=vision-friendly-dark)](https://github.com/nishant51/github-readme-stats)
 
   <!--  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) --!>
