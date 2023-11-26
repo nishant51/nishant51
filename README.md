@@ -23,7 +23,7 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- :telescope: I’m working on becoming a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working on becoming a Software Engineer and contributing to frontend progressing in Backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -47,6 +47,10 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+
+
 </div>
 ---
 
