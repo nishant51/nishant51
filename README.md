@@ -23,7 +23,7 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- :telescope: I’m working on becoming a Software Engineer and contributing to frontend progressing in Backend for building web applications.
+- :telescope: I’m working as a Backend Dev. and contributing to Backend for building web applications utilizing Django REST Framework.
 
 - :seedling: Exploring Technical Content Writing.
 
