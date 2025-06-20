@@ -12,41 +12,28 @@
 <div><img src="https://komarev.com/ghpvc/?username=nishant51&style=flat-square&color=blue" alt=""/></div>
 </div>
 
-<h1>
+<h1 align="center">
   Hey there, Nishant Timsina! here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### About Me :
 
-I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- :telescope: I’m working as a Backend Dev. and contributing to Backend for building web applications utilizing Django REST Framework.
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: A self-taught Backend and DevOps Engineer based in Kathmandu, Nepal.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
 - :mailbox:How to reach me: timsinanishant51@gmail.com
 
-
-
 ### :hammer_and_wrench: Languages and Tools :
-
-<div background-color:#808080;>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
-
-
-</div>
+<p align="center">
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=py,django,flask,firebase,postman,ubuntu,sqlite,postgres,mongodb,redis,rabbitmq,kafka,nginx,bash,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,rabbitmq,githubactions,docker,kubernetes,postman,git,md" />
+</a>
+</p>
 ---
 
 
